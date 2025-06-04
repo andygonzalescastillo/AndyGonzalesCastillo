@@ -2,10 +2,6 @@
 
 **Desarrollador Backend | Apasionado por crear aplicaciones escalables y de calidad**
 
-📍 Lima, Perú  
-
----
-
 ## 📫 Contáctame
 
 [<img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/>](mailto:andygonzales.2005@outlook.es)  
