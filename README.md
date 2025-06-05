@@ -6,7 +6,7 @@
 
 [<img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/>](mailto:andygonzales.2005@outlook.es)  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/andygonzalescastillo)  
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/AndYGonzalesCastillo)  
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/AndyGonzalesCastillo)  
 
 ---
 
