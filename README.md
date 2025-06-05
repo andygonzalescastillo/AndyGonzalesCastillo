@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-Soy egresado de la Carrera de Desarrollo de Software en el Instituto San Ignacio de Loyola, con un enfoque principal en **Backend**, aunque también manejo **Frontend** para contribuir de manera integral en proyectos completos.  
+Soy egresado de la Carrera de Desarrollo de Software, con un enfoque principal en **Backend**, aunque también manejo **Frontend** para contribuir de manera integral en proyectos completos.  
 Me considero responsable, proactivo y siempre dispuesto a aprender y enfrentar nuevos retos. Me encanta trabajar en equipo, compartir conocimientos y entregar soluciones de alta calidad.
 
 ---
